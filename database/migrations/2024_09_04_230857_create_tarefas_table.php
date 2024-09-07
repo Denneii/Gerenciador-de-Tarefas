@@ -14,8 +14,10 @@ return new class extends Migration
         Schema::create('tarefas', function (Blueprint $table) {
             $table->id();
 
-            // Insira os demais campos aqui
-
+            $table->string('titulo');
+            $table->string('descricao');
+            $table->enum('status', ['pendente', 'concluida']);
+        
             $table->timestamps();
         });
     }
