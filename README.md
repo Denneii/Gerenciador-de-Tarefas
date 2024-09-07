@@ -95,3 +95,4 @@ Você pode se destacar no processo seletivo ao implementar funcionalidades adici
    - Implementar autenticação para permitir que diferentes usuários gerenciem suas próprias tarefas.
 
 Essas adições não são obrigatórias, entretando demonstrarão habilidades extras e iniciativa, o que será valorizado durante a avaliação.
+# Gerenciador-de-Tarefas
